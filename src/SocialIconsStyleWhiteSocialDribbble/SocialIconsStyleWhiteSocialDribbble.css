@@ -1,0 +1,11 @@
+.social-icons-style-white-social-dribbble-instance,
+.social-icons-style-white-social-dribbble-instance * {
+  box-sizing: border-box;
+}
+.social-icons-style-white-social-dribbble-instance {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}

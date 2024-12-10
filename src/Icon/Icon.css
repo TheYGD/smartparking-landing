@@ -1,0 +1,11 @@
+.icon-instance,
+.icon-instance * {
+  box-sizing: border-box;
+}
+.icon-instance {
+  flex-shrink: 0;
+  width: 35px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}

@@ -1,0 +1,10 @@
+.essential-icons-send-instance,
+.essential-icons-send-instance * {
+  box-sizing: border-box;
+}
+.essential-icons-send-instance {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  overflow: visible;
+}
